@@ -34,17 +34,17 @@
 ###
 
 <div align="left">
-  <a href="https://youtube.com/YOUR_USERNAME" target="_blank">
+  <a href="https://youtube.com/@darkFrozenGaming" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.instagram.com/prince_darkx_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
- <a href="https://t.me/YOUR_USERNAME" target="_blank">
+ <a href="https://t.me/darkFrozenGaming" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0AABF4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
 </a>
 
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:princedarkx1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Prince-Darkx/Prince-Darkx/output/snake.svg" alt="Snake animation" />
 
 ###
